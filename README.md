@@ -1,2 +1,2 @@
 # sample-repo
-Sample text for jenkins - demo 1 2 3
+Sample text for jenkins - demo
